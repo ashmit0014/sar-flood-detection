@@ -1,3 +1,8 @@
+<!-- profile-editorial-cover -->
+<picture>
+  <img src=".github/project-cover.png" alt="sar-flood-detection by Ashmit Kundu" width="100%" />
+</picture>
+
 # Automated Cloud-Penetrating Flood Boundary Detection
 
 Rapid and accurate mapping of inundated areas is critical for effective emergency response. Traditional disaster monitoring relies on multi-spectral optical satellite imagery, which is severely limited by the heavy cloud cover that typically accompanies severe flooding events.
